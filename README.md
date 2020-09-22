@@ -1,5 +1,5 @@
 # IONet
-This repo is the implementation of paper **Weakly-Supervised Action Localization via Embedding-Modeling Iterative Optimization.
+This repo is the implementation of paper **Weakly-Supervised Action Localization via Embedding-Modeling Iterative Optimization**.
 
 ## Recommended Environment
 * Python 3.6
