@@ -8,7 +8,6 @@ This repo is the implementation of paper **Weakly-Supervised Action Localization
 
 ## Prerequisites
 * Install dependencies: `pip install -r requirements.txt`.
-* [Install Matlab API for Python](https://ww2.mathworks.cn/help/matlab/matlab_external/install-the-matlab-engine-for-python.html) (matlab.engine).
 * Prepare THUMOS14 and ActivityNet datasets.
 
 ### Feature Extraction
