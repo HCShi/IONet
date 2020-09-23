@@ -2,6 +2,7 @@
 This repo is the implementation of paper **Weakly-Supervised Action Localization via Embedding-Modeling Iterative Optimization**.
 
 ## Recommended Environment
+* Ubuntu 16.04.6
 * Python 3.6
 * Cuda 9.0
 * PyTorch 1.1.0
@@ -31,6 +32,9 @@ python test.py
 The final results are saved in **.npz** format.
 
 ## Citation
+
+## Contact
+If you have any questions, please contact me (shihaichao@iie.ac.cn).
 
 ## License
 MIT
